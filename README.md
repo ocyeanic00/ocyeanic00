@@ -51,7 +51,7 @@ Personal portfolio with modern UI structure
 ## 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ocyeanic00&show_icons=true&theme=tokyonight&hide_border=true" />
+ 
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocyeanic00&theme=tokyonight&hide_border=true" />
 </p>
