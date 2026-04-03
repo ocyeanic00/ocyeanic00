@@ -24,10 +24,10 @@
 
 ## ✦ Selected Work
 
-### 🌀 YearWrap 2.0  
+### 🌀 [YearWrap 2.0](https://github.com/ocyeanic00/yearwrap-2.0)
 A recap-style web experience that presents personal data in a clean, visual format.  
 → focuses on UI storytelling & layout clarity  
-### 🌀 [YearWrap 2.0](https://github.com/ocyeanic00/yearwrap-2.0)
+
 
 ---
 
