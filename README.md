@@ -53,8 +53,7 @@ Personal portfolio with modern UI structure
 
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocyeanic00&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocyeanic00&theme=tokyonight&hide_border=true" />
+ 
 </p>
 
 ---
