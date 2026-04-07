@@ -1,73 +1,87 @@
-<h1 align="center">Rue</h1>
+<h1 align="center">rue</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=AAAAFF&center=true&vCenter=true&lines=frontend+developer;building+clean+interfaces;minimal+but+meaningful" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A9EFF&center=true&vCenter=true&lines=frontend+developer;ui+focused;building+real+experiences;minimal+but+meaningful" />
+</p>
+
+<p align="center">
+  <i>building calm interfaces with real logic underneath</i>
 </p>
 
 ---
 
-## 🧠 About
+## 🧠 about
 
-- 💻 Frontend-focused developer  
-- 🎨 Interested in clean UI & emotional design  
-- 🧩 Exploring interactive web experiences  
-- 🌙 I like things minimal, but meaningful  
+- 💻 frontend-focused developer with strong interest in real systems  
+- 🎨 design-first approach with attention to user experience  
+- ⚙️ exploring backend logic & structured thinking  
+- 🤖 interested in intelligent, data-driven interfaces  
+- 🌙 minimal, but intentional  
 
 ---
 
-## ⚙️ Stack
+## ⚙️ stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,node,python,mongodb,java,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## ✦ Selected Work
+## ✦ selected work
 
-### 🌀 [YearWrap 2.0](https://github.com/ocyeanic00/yearwrap-2.0)
-A recap-style web experience that presents personal data in a clean, visual format.  
-→ focuses on UI storytelling & layout clarity  
-
----
-
-### 🧠 Personality App  
-Interactive UI experiment exploring user traits & responses  
-→ logic + UI balance  
+### 🌀 [yearwrap 2.0](https://github.com/ocyeanic00/yearwrap-2.0)  
+a recap-style system presenting personal data in a visual format  
+→ ui storytelling + structured logic  
 
 ---
 
-### 📓 Journal  
-Minimal HTML-based journaling interface  
+### 🧠 personality app  
+interactive system exploring user traits & responses  
+→ logic + interface balance  
+
+---
+
+### 📓 journal  
+minimal writing interface  
 → simple, calm, distraction-free  
 
 ---
 
-### 🌐 Portfolio  
-Personal portfolio with modern UI structure  
-→ clean layout + frontend fundamentals  
+### 🌐 portfolio  
+personal site with clean structure  
+→ frontend + design fundamentals  
 
 ---
 
-## 📊 Activity
+## 📊 activity
 
 <p align="center">
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=ocyeanic00&show_icons=true&theme=transparent&hide_border=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocyeanic00&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Presence
+## ⚡ mindset
+
+- 🚀 build → break → learn → improve  
+- 🧩 focus on systems, not just screens  
+- 🎯 goal: frontend + intelligent systems  
+
+---
+
+## 🌐 presence
 
 <p align="center">
   <a href="https://github.com/ocyeanic00">
-    <img src="https://img.shields.io/badge/GitHub-ocyeanic00-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-ocyeanic00-0d1117?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“not everything has to be loud to be impactful.”</i>
+  ✦ not everything has to be loud to be impactful ✦
 </p>
